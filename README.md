@@ -1,8 +1,9 @@
-# The architecture of Models including discriminator and generator of Vanilla GAN and CycleGAN
+# The model architecture and training procedures
 
-
-PoC convolutional neural network that predicts per-pixel probabilty of cancer from 256x256 image tiles generated from whole-slide images.
-
+Discriminator of both two models
 ![alt text](img/discriminator.png)
+
+Generator of VanillaGAN
+![alt text](img/dcgenerator.png)
 
 
