@@ -18,4 +18,4 @@ TrainingProcedure of VanillaGAN
 TrainingProcedure of CycleGAN
 ![alt text](img/cyclegan_trainingprocedure.png)
 
-### This work is based on Assignment from CSC2516 in Winter 2019.
+### This work is based on Assignment from CSC2516-Winter 2019, University of Toronto.
